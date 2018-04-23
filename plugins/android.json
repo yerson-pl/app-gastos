@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.djamware.myexpense"
+    }
+  },
+  "dependent_plugins": {}
+}
